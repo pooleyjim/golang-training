@@ -6,6 +6,5 @@ import (
 
 func main() {
 	myname := "James"
-	yourname := "Todd"
-	fmt.Println("Hello ", myname, yourname)
+	fmt.Println("Hello ", myname)
 }
